@@ -1,0 +1,28 @@
+﻿  Source.cpp
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\angel.h(62): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\mat.h(756): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\mat.h(757): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\mat.h(758): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\mat.h(779): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\mat.h(781): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\mat.h(784): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\mat.h(800): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\source.cpp(3): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\source.cpp(4): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\source.cpp(5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\source.cpp(6): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\source.cpp(7): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\source.cpp(8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\source.cpp(9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  InitShader.cpp
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\angel.h(62): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\mat.h(756): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\mat.h(757): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\mat.h(758): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\mat.h(779): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\mat.h(781): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\mat.h(784): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\sony\desktop\sampleopenglproject\sampleopenglproject\mat.h(800): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  SampleOpenGLProject.vcxproj -> C:\Users\sony\Desktop\SampleOpenGLProject\Debug\SampleOpenGLProject.exe
+  SampleOpenGLProject.vcxproj -> C:\Users\sony\Desktop\SampleOpenGLProject\Debug\SampleOpenGLProject.pdb (Full PDB)
